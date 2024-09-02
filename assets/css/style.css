@@ -3,7 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: raleway;
-  background-color: black;;
+  background-color: black;
 }
 
 /* header y titulo */
@@ -40,11 +40,10 @@ h1 {
 
 .seccion1 {
   height: 727px;
- background-image: url("../imgs/bg-header.jpg");
- background-position: center;
- background-repeat: no-repeat;
- background-color: black;
- ba
+  background-image: url("../imgs/bg-header.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: black;
 }
 /* 
 
@@ -85,7 +84,6 @@ h1 {
   opacity: 1;
   letter-spacing: 0;
 }
-
 
 .parrafo2 {
   padding: 5px 0 10px 0;
@@ -154,12 +152,12 @@ i {
 /* seccion4 */
 
 .seccion4 {
-height: 348px;
-background-color: rgb(0, 0, 0);
-display: flex;
-justify-content: center;
-align-items: center;
-column-gap: 200PX;
+  height: 348px;
+  background-color: rgb(0, 0, 0);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 200px;
 }
 
 .seccion4 img {
@@ -187,15 +185,8 @@ footer {
   background-color: #1e1a13;
 }
 
-footer a{ 
+footer a {
   background-color: #1e1a13;
   color: white;
   text-decoration: none;
-  
-
-
 }
-
-
-
-
